@@ -29,9 +29,11 @@ Gnalloy Pipeline 的压缩/解压编解码器，覆盖 gzip、zlib、brotli、sn
 - `gnalloy.org/codec-compression/zstd`（`zstd`）
 
 ## 直接 Gnalloy 依赖
+
 - `gnalloy.org/gnalloy`
 
-## 当前模块规划中的直接下游
+## 当前仓库集合中的直接下游
+
 - `gnalloy.org/codec-http1`
 - `gnalloy.org/codec-http2`
 
